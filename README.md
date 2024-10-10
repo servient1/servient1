@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Welcome to My GitHub Profile!
 
-<!--
-**servient1/servient1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a **Fullstack Developer** with experience in various modern technologies. I love solving problems and building solutions that make an impact! Below are some of the tools and languages I work with.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack:
+- 🌐 **Frontend**: ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🖥️ **Backend**: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- 💾 **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ⚙️ **Other**: ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Current Projects:
+- **Developing fullstack applications** using **Vue.js, PHP, MySQL**, and more.
+- Working on a variety of **desktop and mobile apps** using **Delphi** and **Java**.
+
+## 📫 Get in Touch:
+Feel free to reach out to me if you'd like to collaborate or discuss development ideas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
