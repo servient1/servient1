@@ -8,6 +8,12 @@ Hi, I'm a **Fullstack Developer** with experience in various modern technologies
 - 💾 **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ⚙️ **Other**: ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
+## 👨‍🏫 Who am I:
+- **Fullstack Developer** at [Rillsoft Sistemas](https://www.rillsoft.com.br), a leading Brazilian ERP systems company.  
+  ![Rillsoft Logo](https://www.rillsoft.com.br/logo.png)
+  
+- **CEO** of **Sistemize Apps**, an independent app development company focused on creating innovative digital solutions.
+
 ## 💼 Current Projects:
 - **Developing fullstack applications** using **Vue.js, PHP, MySQL**, and more.
 - Working on a variety of **desktop and mobile apps** using **Delphi** and **Java**.
@@ -16,4 +22,3 @@ Hi, I'm a **Fullstack Developer** with experience in various modern technologies
 Feel free to reach out to me if you'd like to collaborate or discuss development ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
