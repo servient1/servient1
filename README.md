@@ -10,7 +10,7 @@ Hi, I'm a **Fullstack Developer** with experience in various modern technologies
 
 ## 👨‍🏫 Who am I:
 - **Fullstack Developer** at [Rillsoft Sistemas](https://www.rillsoft.com.br), a leading Brazilian ERP systems company.  
-  ![Rillsoft Logo](https://www.rillsoft.com.br/logo.png)
+  ![Rillsoft Logo](https://www.rillsoftsistemas.com.br/img/brand.png)
   
 - **CEO** of **Sistemize Apps**, an independent app development company focused on creating innovative digital solutions.
 
@@ -21,4 +21,4 @@ Hi, I'm a **Fullstack Developer** with experience in various modern technologies
 ## 📫 Get in Touch:
 Feel free to reach out to me if you'd like to collaborate or discuss development ideas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/servient1)
