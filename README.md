@@ -9,10 +9,10 @@ Hi, I'm a **Fullstack Developer** with experience in various modern technologies
 - ⚙️ **Other**: ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
 ## 👨‍🏫 Who am I:
-- **Fullstack Developer** at [Rillsoft Sistemas](https://www.rillsoft.com.br), a leading Brazilian ERP systems company.  
-  ![Rillsoft Logo](https://www.rillsoftsistemas.com.br/img/brand.png)
+- **Fullstack Developer**
   
-- **CEO** of **Sistemize Apps**, an independent app development company focused on creating innovative digital solutions.
+- **CEO** of [Sistemize Apps](https://sistemizeapps.com/), an independent app development company focused on creating innovative digital solutions.
+-  ![Sistemize Logo](https://www.rillsoftsistemas.com.br/img/brand.png](https://sistemizeapps.com/assets/empresa-logo1.png))
 
 ## 💼 Current Projects:
 - **Developing fullstack applications** using **Vue.js, PHP, MySQL**, and more.
