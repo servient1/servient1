@@ -12,7 +12,7 @@ Hi, I'm a **Fullstack Developer** with experience in various modern technologies
 - **Fullstack Developer**
   
 - **CEO** of [Sistemize Apps](https://sistemizeapps.com/), an independent app development company focused on creating innovative digital solutions.
--  ![Sistemize Logo](https://sistemizeapps.com/assets/empresa-logo1.png)
+- <img src="https://sistemizeapps.com/assets/empresa-logo1.png" alt="Sistemize Logo" width="120">
 
 ## 💼 Current Projects:
 - **Developing fullstack applications** using **Vue.js, PHP, MySQL**, and more.
